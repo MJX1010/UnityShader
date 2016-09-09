@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/_New/FixedShader/Culling_Test/CullingGlass/QM_4.1.unity
+  isLoaded: 1
+  isActive: 1
