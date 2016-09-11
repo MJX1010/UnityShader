@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_New/FixedShader/FixFunc_Summary/QM_5.1.unity
+- path: Assets/_New/SurfaceShader/surf1/surf1.unity
   isLoaded: 1
   isActive: 1
