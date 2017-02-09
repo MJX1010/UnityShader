@@ -13,7 +13,7 @@ Shader "Rhino/Dissolve_TexturCoords" {
 
 		/*new add*/
 		_Specular("Specular(RGB)", Color) = (1, 1, 1, 1)
-		_Smoothness("Smoothness", Range(0.0, 1)) = 0.5
+		_Smoothness("Smoothness", Range(0.01, 10)) = 0.5
 
 		_Emission("Emission", Color) = (1,1,1,1)
 	}
@@ -60,6 +60,8 @@ Shader "Rhino/Dissolve_TexturCoords" {
 					half2 texcoord : TEXCOORD0;
 
 					float3 normal:NORMAL;
+
+					float4 color : COLOR;
 				};
 
 				sampler2D _MainTex;
@@ -71,7 +73,25 @@ Shader "Rhino/Dissolve_TexturCoords" {
 					o.vertex = mul(UNITY_MATRIX_MVP, v.vertex);
 					o.texcoord = TRANSFORM_TEX(v.texcoord, _MainTex);
 
-					o.normal = v.normal;
+					//o.normal = v.normal;
+
+					float3 L = normalize(WorldSpaceLightDir(v.vertex));
+					float3 N = UnityObjectToWorldNormal(v.normal);
+					float3 V = normalize(WorldSpaceViewDir(v.vertex));
+
+					float4 ambient = UNITY_LIGHTMODEL_AMBIENT;
+
+					float ndotl = saturate(dot(N, L));
+					float diffuse = _LightColor0 * ndotl;
+
+					float3 H = L + V;
+					H = normalize(H);
+
+					float specularScale = pow(saturate(dot(H, N)), _Smoothness);
+					float4 specular = _Specular * specularScale;
+
+					o.color = specular;
+
 					return o;
 				}
 				
@@ -120,13 +140,14 @@ Shader "Rhino/Dissolve_TexturCoords" {
 						clip(-0.1);
 					}
 
-					
-					
-
 					fixed4 c;
 					c.rgb = col + _Emission.rgb;
 					c.a = tex.a*_Color.a;
 					UNITY_OPAQUE_ALPHA(c.a);
+
+					
+
+					c.rgb += i.color ;
 					return c;
 				}
 			ENDCG
