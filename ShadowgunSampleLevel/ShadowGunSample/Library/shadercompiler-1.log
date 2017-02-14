@@ -1,0 +1,21 @@
+Base path: E:/Unity 4.7.2f Setup/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-8952
+Cmd: getPlatforms
+Cmd: preprocess
+  error: 1 plat 15 at (41): Unrecognized renderer for #pragma exclude_renderers: molehill
+  insize=2568 outsize=1237 ok=1
+Cmd: compileSnippet
+  error: 1 plat 15 at (41): Unrecognized renderer for #pragma exclude_renderers: molehill
+  api=4 type=0 insize=1639 outsize=2395 kw=LIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  error: 1 plat 15 at (41): Unrecognized renderer for #pragma exclude_renderers: molehill
+  api=4 type=1 insize=1639 outsize=933 kw=LIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  error: 1 plat 15 at (41): Unrecognized renderer for #pragma exclude_renderers: molehill
+  api=4 type=0 insize=1639 outsize=2395 kw=LIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  error: 1 plat 15 at (41): Unrecognized renderer for #pragma exclude_renderers: molehill
+  api=4 type=1 insize=1639 outsize=933 kw=LIGHTMAP_ON ok=1
+Cmd: preprocess
+  error: 1 plat 15 at (41): Unrecognized renderer for #pragma exclude_renderers: molehill
+  insize=2566 outsize=1237 ok=1
