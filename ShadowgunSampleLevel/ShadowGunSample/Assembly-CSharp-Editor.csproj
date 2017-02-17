@@ -64,6 +64,7 @@
      <None Include="Assets\Assets\Shaders\Environment\MADFINGER-lightprobe-VirtualVertexGlossy-Add.shader" />
      <None Include="Assets\Assets\Shaders\Environment\MADFINGER-skybox.shader" />
      <None Include="Assets\BRDF\Mobile-TexPseudoBRDF-WrapAround-ShadowgunStyleLightProbes.shader" />
+     <None Include="Assets\Liquid Particle Systems\uLiquid - Readme.txt" />
      <None Include="Assets\Assets\Shaders\Environment\MADFINGER-skybox-transparent.shader" />
      <None Include="Assets\Assets\Shaders\Environment\MADFINGER-Unlit-Scroll2Layers-Sine-AlphaBlend.shader" />
      <None Include="Assets\Assets\Shaders\Environment\MADFINGER-god-rays.shader" />
@@ -82,6 +83,8 @@
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
       <Project>{4A13A8C4-C8AA-5B63-16EA-CAF29A7E34FF}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+    <ProjectReference Include="Assembly-UnityScript.unityproj">
+      <Project>{6EC8D37B-E297-6C88-72E1-A732E7A1C434}</Project>      <Name>Assembly-UnityScript</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

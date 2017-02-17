@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\BRDF\BRDFLookupTexture.cs" />
+     <Compile Include="Assets\Liquid Particle Systems\Scripts\SmoothCameraOrbit.cs" />
      <None Include="Assets\Assets\Shaders\Environment\MADFINGER-weapon.shader" />
      <None Include="Assets\Assets\Shaders\Environment\MADFINGER-cube-env.shader" />
      <None Include="Assets\LowPolyWaves 2.0.shader" />
@@ -64,6 +65,7 @@
      <None Include="Assets\Assets\Shaders\Environment\MADFINGER-lightprobe-VirtualVertexGlossy-Add.shader" />
      <None Include="Assets\Assets\Shaders\Environment\MADFINGER-skybox.shader" />
      <None Include="Assets\BRDF\Mobile-TexPseudoBRDF-WrapAround-ShadowgunStyleLightProbes.shader" />
+     <None Include="Assets\Liquid Particle Systems\uLiquid - Readme.txt" />
      <None Include="Assets\Assets\Shaders\Environment\MADFINGER-skybox-transparent.shader" />
      <None Include="Assets\Assets\Shaders\Environment\MADFINGER-Unlit-Scroll2Layers-Sine-AlphaBlend.shader" />
      <None Include="Assets\Assets\Shaders\Environment\MADFINGER-god-rays.shader" />

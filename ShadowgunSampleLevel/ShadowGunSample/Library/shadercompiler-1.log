@@ -1,21 +1,17 @@
 Base path: E:/Unity 4.7.2f Setup/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-1-8952
+Pipe name: \\.\pipe\UnityShaderCompiler-1-10668
 Cmd: getPlatforms
 Cmd: preprocess
-  error: 1 plat 15 at (41): Unrecognized renderer for #pragma exclude_renderers: molehill
-  insize=2568 outsize=1237 ok=1
+  insize=2367 outsize=739 ok=1
 Cmd: compileSnippet
-  error: 1 plat 15 at (41): Unrecognized renderer for #pragma exclude_renderers: molehill
-  api=4 type=0 insize=1639 outsize=2395 kw=LIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  error: 1 plat 15 at (41): Unrecognized renderer for #pragma exclude_renderers: molehill
-  api=4 type=1 insize=1639 outsize=933 kw=LIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  error: 1 plat 15 at (41): Unrecognized renderer for #pragma exclude_renderers: molehill
-  api=4 type=0 insize=1639 outsize=2395 kw=LIGHTMAP_ON ok=1
-Cmd: compileSnippet
-  error: 1 plat 15 at (41): Unrecognized renderer for #pragma exclude_renderers: molehill
-  api=4 type=1 insize=1639 outsize=933 kw=LIGHTMAP_ON ok=1
+  error: 2 plat 4 at (70): 'separateSH': output parameter 'i' not completely initialized
+  api=4 type=0 insize=6554 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
 Cmd: preprocess
-  error: 1 plat 15 at (41): Unrecognized renderer for #pragma exclude_renderers: molehill
-  insize=2566 outsize=1237 ok=1
+  error: 2 plat 15 at (73): macro 'UNITY_INITIALIZE_OUTPUT' passed 1 arguments, but requires 2
+  insize=2419 outsize=527 ok=0
+Cmd: preprocess
+  insize=2419 outsize=739 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6606 outsize=4362 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6606 outsize=2046 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1

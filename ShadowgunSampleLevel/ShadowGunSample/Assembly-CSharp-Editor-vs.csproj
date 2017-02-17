@@ -64,11 +64,15 @@
      <None Include="Assets\Assets\Shaders\Environment\MADFINGER-lightprobe-VirtualVertexGlossy-Add.shader" />
      <None Include="Assets\Assets\Shaders\Environment\MADFINGER-skybox.shader" />
      <None Include="Assets\BRDF\Mobile-TexPseudoBRDF-WrapAround-ShadowgunStyleLightProbes.shader" />
+     <None Include="Assets\Liquid Particle Systems\uLiquid - Readme.txt" />
      <None Include="Assets\Assets\Shaders\Environment\MADFINGER-skybox-transparent.shader" />
      <None Include="Assets\Assets\Shaders\Environment\MADFINGER-Unlit-Scroll2Layers-Sine-AlphaBlend.shader" />
      <None Include="Assets\Assets\Shaders\Environment\MADFINGER-god-rays.shader" />
      <None Include="Assets\Assets\Shaders\Environment\Mobile-Lightmap-Unlit.shader" />
      <None Include="Assets\Assets\Shaders\TextureSimple.shader" />
+ <Reference Include="Assembly-UnityScript">
+ <HintPath>F:/MyWorkSpace/Unity-Projects/LearnToCcShaderComeIn/UnityShader/ShadowgunSampleLevel/ShadowGunSample/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>E:/Unity 4.7.2f Setup/Editor/Data/UnityExtensions/Unity/GUISystem/4.7.2/Standalone/UnityEngine.UI.dll</HintPath>
  </Reference>
