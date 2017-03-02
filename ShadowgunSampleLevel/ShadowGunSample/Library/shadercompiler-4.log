@@ -1,0 +1,26 @@
+Base path: E:/Unity 4.7.2f Setup/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-4-10668
+Cmd: getPlatforms
+Cmd: compileSnippet
+  error: 2 plat 8 at (70): 'separateSH': output parameter 'i' not completely initialized
+  api=8 type=0 insize=6554 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at (70): 'separateSH': output parameter 'i' not completely initialized
+  api=4 type=0 insize=6554 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  api=5 type=0 insize=6554 outsize=4786 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  error: 2 plat 8 at (70): 'separateSH': output parameter 'i' not completely initialized
+  api=8 type=0 insize=6554 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  api=0 type=0 insize=6554 outsize=2302 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=6554 outsize=6 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=6554 outsize=669 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=6554 outsize=3088 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Unhandled exception: Readfile from pipe failed. GLE=管道已结束。
+
+
+Quitting shader compiler process

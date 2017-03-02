@@ -69,7 +69,7 @@ struct Input {
 
 void separateSH (inout appdata_full v, out Input o)
 {
-	//Init Input o
+	//Init Input o , if not, error will appear
 	UNITY_INITIALIZE_OUTPUT(Input,o);
 
 	float3 worldN = mul ((float3x3)_Object2World, SCALED_NORMAL);
