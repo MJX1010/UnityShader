@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: 02bdf3aa135308c4a87c272a9c240027
+timeCreated: 1471070157
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: earth
+    100002: jupiter
+    100004: Line001
+    100006: //RootNode
+    100008: mars
+    100010: mercury
+    100012: neptune
+    100014: planet
+    100016: saturn2
+    100018: sun
+    100020: uranus
+    100022: venus
+    400000: earth
+    400002: jupiter
+    400004: Line001
+    400006: //RootNode
+    400008: mars
+    400010: mercury
+    400012: neptune
+    400014: planet
+    400016: saturn2
+    400018: sun
+    400020: uranus
+    400022: venus
+    2300000: earth
+    2300002: jupiter
+    2300004: Line001
+    2300006: mars
+    2300008: mercury
+    2300010: neptune
+    2300012: planet
+    2300014: saturn2
+    2300016: sun
+    2300018: uranus
+    2300020: venus
+    3300000: earth
+    3300002: jupiter
+    3300004: Line001
+    3300006: mars
+    3300008: mercury
+    3300010: neptune
+    3300012: planet
+    3300014: saturn2
+    3300016: sun
+    3300018: uranus
+    3300020: venus
+    4300000: uranus
+    4300002: earth
+    4300004: saturn2
+    4300006: sun
+    4300008: mars
+    4300010: venus
+    4300012: neptune
+    4300014: mercury
+    4300016: jupiter
+    4300018: planet
+    4300020: Line001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 087f51d5926d9e146b55f863dec691e9
+timeCreated: 1487325310
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone022
+    100002: Bone023
+    100004: Bone024
+    100006: Bone025
+    100008: Bone026
+    100010: Bone027
+    100012: Bone028
+    100014: Bone029
+    100016: Bone030
+    100018: Bone031
+    100020: Bone032
+    100022: ChamferBox001
+    100024: //RootNode
+    100026: m_computer_display
+    100028: m_computer_down
+    100030: m_computer_swith
+    100032: m_computer_up
+    100034: m_mouse
+    100036: m_mouse_C
+    100038: m_power_2
+    100040: m_power_3
+    100042: m_power_4
+    100044: m_power_L
+    100046: m_socket
+    100048: Bone001
+    100050: Bone002
+    100052: Bone003
+    100054: Bone004
+    100056: Bone005
+    100058: Bone006
+    100060: Bone007
+    400000: Bone022
+    400002: Bone023
+    400004: Bone024
+    400006: Bone025
+    400008: Bone026
+    400010: Bone027
+    400012: Bone028
+    400014: Bone029
+    400016: Bone030
+    400018: Bone031
+    400020: Bone032
+    400022: ChamferBox001
+    400024: //RootNode
+    400026: m_computer_display
+    400028: m_computer_down
+    400030: m_computer_swith
+    400032: m_computer_up
+    400034: m_mouse
+    400036: m_mouse_C
+    400038: m_power_2
+    400040: m_power_3
+    400042: m_power_4
+    400044: m_power_L
+    400046: m_socket
+    400048: Bone001
+    400050: Bone002
+    400052: Bone003
+    400054: Bone004
+    400056: Bone005
+    400058: Bone006
+    400060: Bone007
+    2300000: ChamferBox001
+    2300002: m_computer_display
+    2300004: m_computer_down
+    2300006: m_computer_swith
+    2300008: m_computer_up
+    2300010: m_mouse
+    2300012: m_mouse_C
+    2300014: m_socket
+    3300000: ChamferBox001
+    3300002: m_computer_display
+    3300004: m_computer_down
+    3300006: m_computer_swith
+    3300008: m_computer_up
+    3300010: m_mouse
+    3300012: m_mouse_C
+    3300014: m_socket
+    4300000: m_computer_up
+    4300002: m_computer_down
+    4300004: m_computer_display
+    4300006: m_socket
+    4300008: m_power_L
+    4300010: m_computer_swith
+    4300012: ChamferBox001
+    4300014: m_mouse
+    4300016: m_mouse_C
+    4300018: m_power_2
+    4300020: m_power_3
+    4300022: m_power_4
+    9500000: //RootNode
+    13700000: m_power_2
+    13700002: m_power_3
+    13700004: m_power_4
+    13700006: m_power_L
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

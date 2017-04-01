@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: da1262b894a255441aca637b50cc6b7f
+timeCreated: 1470979102
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: frame_1
+    100002: //RootNode
+    100004: picture007
+    100006: picture1
+    100008: picture2
+    100010: picture3
+    100012: picture3 1
+    100014: picture5
+    100016: picture5 1
+    100018: picture6
+    100020: plate_1
+    100022: plate_2
+    100024: picture_car2
+    100026: pictures_car
+    100028: door001
+    100030: door_frame001
+    100032: floor
+    100034: roof
+    100036: wall
+    100038: window_d
+    100040: window_glass
+    100042: window_l
+    100044: window_r
+    100046: "\u7EC4002"
+    400000: frame_1
+    400002: //RootNode
+    400004: picture007
+    400006: picture1
+    400008: picture2
+    400010: picture3
+    400012: picture3 1
+    400014: picture5
+    400016: picture5 1
+    400018: picture6
+    400020: plate_1
+    400022: plate_2
+    400024: picture_car2
+    400026: pictures_car
+    400028: door001
+    400030: door_frame001
+    400032: floor
+    400034: roof
+    400036: wall
+    400038: window_d
+    400040: window_glass
+    400042: window_l
+    400044: window_r
+    400046: "\u7EC4002"
+    2300000: frame_1
+    2300002: picture007
+    2300004: picture1
+    2300006: picture2
+    2300008: picture3
+    2300010: picture3 1
+    2300012: picture5
+    2300014: picture5 1
+    2300016: picture6
+    2300018: plate_1
+    2300020: plate_2
+    2300022: picture_car2
+    2300024: pictures_car
+    2300026: door001
+    2300028: door_frame001
+    2300030: floor
+    2300032: roof
+    2300034: wall
+    2300036: window_d
+    2300038: window_glass
+    2300040: window_l
+    2300042: window_r
+    3300000: frame_1
+    3300002: picture007
+    3300004: picture1
+    3300006: picture2
+    3300008: picture3
+    3300010: picture3 1
+    3300012: picture5
+    3300014: picture5 1
+    3300016: picture6
+    3300018: plate_1
+    3300020: plate_2
+    3300022: picture_car2
+    3300024: pictures_car
+    3300026: door001
+    3300028: door_frame001
+    3300030: floor
+    3300032: roof
+    3300034: wall
+    3300036: window_d
+    3300038: window_glass
+    3300040: window_l
+    3300042: window_r
+    4300000: picture1
+    4300002: frame_1
+    4300004: plate_2
+    4300006: picture5
+    4300008: picture3
+    4300010: picture2
+    4300012: picture3
+    4300014: picture5
+    4300016: picture6
+    4300018: plate_1
+    4300020: picture007
+    4300022: pictures_car
+    4300024: picture_car2
+    4300026: door_frame001
+    4300028: floor
+    4300030: door001
+    4300032: wall
+    4300034: roof
+    4300036: window_d
+    4300038: window_r
+    4300040: window_l
+    4300042: window_glass
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

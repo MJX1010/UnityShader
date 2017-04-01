@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 124b0a7dc1d018645949b4f775831c20
+timeCreated: 1471244038
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ' book1'
+    100002: ' book2'
+    100004: ' book3'
+    100006: book002
+    100008: book003
+    100010: book01
+    100012: book_0
+    100014: eye
+    100016: Geometry book1
+    100018: Geometry book2
+    100020: Geometry book3
+    100022: m_book
+    100024: m_book_b
+    100026: m_book_page_1
+    100028: //RootNode
+    100030: m_wire
+    100032: m_wire_MeshPart0
+    100034: m_wire_MeshPart1
+    100036: page_0
+    100038: Pen boxes
+    100040: pen_color
+    100042: pencil
+    400000: ' book1'
+    400002: ' book2'
+    400004: ' book3'
+    400006: book002
+    400008: book003
+    400010: book01
+    400012: book_0
+    400014: eye
+    400016: Geometry book1
+    400018: Geometry book2
+    400020: Geometry book3
+    400022: m_book
+    400024: m_book_b
+    400026: m_book_page_1
+    400028: //RootNode
+    400030: m_wire
+    400032: m_wire_MeshPart0
+    400034: m_wire_MeshPart1
+    400036: page_0
+    400038: Pen boxes
+    400040: pen_color
+    400042: pencil
+    2300000: ' book1'
+    2300002: ' book2'
+    2300004: ' book3'
+    2300006: book002
+    2300008: book003
+    2300010: book01
+    2300012: book_0
+    2300014: eye
+    2300016: Geometry book1
+    2300018: Geometry book2
+    2300020: Geometry book3
+    2300022: m_book
+    2300024: m_book_b
+    2300026: m_book_page_1
+    2300028: m_wire_MeshPart0
+    2300030: m_wire_MeshPart1
+    2300032: page_0
+    2300034: Pen boxes
+    2300036: pen_color
+    2300038: pencil
+    3300000: ' book1'
+    3300002: ' book2'
+    3300004: ' book3'
+    3300006: book002
+    3300008: book003
+    3300010: book01
+    3300012: book_0
+    3300014: eye
+    3300016: Geometry book1
+    3300018: Geometry book2
+    3300020: Geometry book3
+    3300022: m_book
+    3300024: m_book_b
+    3300026: m_book_page_1
+    3300028: m_wire_MeshPart0
+    3300030: m_wire_MeshPart1
+    3300032: page_0
+    3300034: Pen boxes
+    3300036: pen_color
+    3300038: pencil
+    4300000: m_book
+    4300002: m_book_b
+    4300004: m_book_page_1
+    4300006: eye
+    4300008: Pen boxes
+    4300010: pen_color
+    4300012: book_0
+    4300014: m_wire_MeshPart0
+    4300016: m_wire_MeshPart1
+    4300018: page_0
+    4300020: pencil
+    4300022: book003
+    4300024: book01
+    4300026: book002
+    4300028: ' book2'
+    4300030: ' book3'
+    4300032: ' book1'
+    4300034: Geometry book1
+    4300036: Geometry book2
+    4300038: Geometry book3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

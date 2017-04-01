@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: f7627d274849cce408f34ebc97d81296
+timeCreated: 1456209092
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: book
+    100002: book cabinet
+    100004: book1
+    100006: book2
+    100008: book3
+    100010: cabinet
+    100012: chair
+    100014: computer
+    100016: computer_paint
+    100018: Door
+    100020: door1
+    100022: door2
+    100024: door3
+    100026: door4
+    100028: Door_frame
+    100030: Door_handle
+    100032: Flashlight
+    100034: //RootNode
+    100036: Frame01
+    100038: Frame01_Photo
+    100040: Frame02
+    100042: Frame03
+    100044: Frame04
+    100046: Frame05
+    100048: Frame05_photo
+    100050: gloud
+    100052: light02
+    100054: short cabinet
+    100056: sofa
+    100058: sofa02
+    100060: table
+    100062: table_drawer
+    100064: table_drawer1
+    100066: table_drawer2
+    100068: table_light
+    100070: table_password01
+    100072: toplight
+    100074: wall
+    100076: White_bookcase
+    100078: window01
+    100080: window02
+    100082: window03
+    100084: window_wall01
+    100086: window_wall02
+    100088: window_wall03
+    400000: book
+    400002: book cabinet
+    400004: book1
+    400006: book2
+    400008: book3
+    400010: cabinet
+    400012: chair
+    400014: computer
+    400016: computer_paint
+    400018: Door
+    400020: door1
+    400022: door2
+    400024: door3
+    400026: door4
+    400028: Door_frame
+    400030: Door_handle
+    400032: Flashlight
+    400034: Frame01
+    400036: //RootNode
+    400038: Frame01_Photo
+    400040: Frame02
+    400042: Frame03
+    400044: Frame04
+    400046: Frame05
+    400048: Frame05_photo
+    400050: gloud
+    400052: light02
+    400054: short cabinet
+    400056: sofa
+    400058: sofa02
+    400060: table
+    400062: table_drawer
+    400064: table_drawer1
+    400066: table_drawer2
+    400068: table_light
+    400070: table_password01
+    400072: toplight
+    400074: wall
+    400076: White_bookcase
+    400078: window01
+    400080: window02
+    400082: window03
+    400084: window_wall01
+    400086: window_wall02
+    400088: window_wall03
+    2300000: book
+    2300002: book cabinet
+    2300004: book1
+    2300006: book2
+    2300008: book3
+    2300010: cabinet
+    2300012: chair
+    2300014: computer
+    2300016: computer_paint
+    2300018: Door
+    2300020: door1
+    2300022: door2
+    2300024: door3
+    2300026: door4
+    2300028: Door_frame
+    2300030: Door_handle
+    2300032: Flashlight
+    2300034: Frame01
+    2300036: Frame01_Photo
+    2300038: Frame02
+    2300040: Frame03
+    2300042: Frame04
+    2300044: Frame05
+    2300046: Frame05_photo
+    2300048: gloud
+    2300050: light02
+    2300052: short cabinet
+    2300054: sofa
+    2300056: sofa02
+    2300058: table
+    2300060: table_drawer
+    2300062: table_drawer1
+    2300064: table_drawer2
+    2300066: table_light
+    2300068: table_password01
+    2300070: toplight
+    2300072: wall
+    2300074: White_bookcase
+    2300076: window01
+    2300078: window02
+    2300080: window03
+    2300082: window_wall01
+    2300084: window_wall02
+    2300086: window_wall03
+    2300088: //RootNode
+    3300000: book
+    3300002: book cabinet
+    3300004: book1
+    3300006: book2
+    3300008: book3
+    3300010: cabinet
+    3300012: chair
+    3300014: computer
+    3300016: computer_paint
+    3300018: Door
+    3300020: door1
+    3300022: door2
+    3300024: door3
+    3300026: door4
+    3300028: Door_frame
+    3300030: Door_handle
+    3300032: Flashlight
+    3300034: Frame01
+    3300036: Frame01_Photo
+    3300038: Frame02
+    3300040: Frame03
+    3300042: Frame04
+    3300044: Frame05
+    3300046: Frame05_photo
+    3300048: gloud
+    3300050: light02
+    3300052: short cabinet
+    3300054: sofa
+    3300056: sofa02
+    3300058: table
+    3300060: table_drawer
+    3300062: table_drawer1
+    3300064: table_drawer2
+    3300066: table_light
+    3300068: table_password01
+    3300070: toplight
+    3300072: wall
+    3300074: White_bookcase
+    3300076: window01
+    3300078: window02
+    3300080: window03
+    3300082: window_wall01
+    3300084: window_wall02
+    3300086: window_wall03
+    3300088: //RootNode
+    4300000: Door_handle
+    4300002: gloud
+    4300004: window02
+    4300006: window01
+    4300008: window_wall02
+    4300010: window_wall03
+    4300012: window03
+    4300014: short cabinet
+    4300016: Door
+    4300018: light02
+    4300020: book cabinet
+    4300022: White_bookcase
+    4300024: door1
+    4300026: door2
+    4300028: door3
+    4300030: door4
+    4300032: table_light
+    4300034: cabinet
+    4300036: book
+    4300038: Door_frame
+    4300040: chair
+    4300042: sofa02
+    4300044: Frame04
+    4300046: sofa
+    4300048: book2
+    4300050: book1
+    4300052: toplight
+    4300054: Frame01
+    4300056: Frame01_Photo
+    4300058: wall
+    4300060: Frame02
+    4300062: Frame03
+    4300064: Flashlight
+    4300066: table_password01
+    4300068: table_drawer1
+    4300070: computer
+    4300072: computer_paint
+    4300074: table
+    4300076: table_drawer
+    4300078: table_drawer2
+    4300080: Frame05
+    4300082: Frame05_photo
+    4300084: window_wall01
+    4300086: book3
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

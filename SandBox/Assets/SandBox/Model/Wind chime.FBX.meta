@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 22f5b0ebbef5c954fb358ab1ae3bc4df
+timeCreated: 1470137946
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Archinteriors8_05_10
+    100002: Archinteriors8_05_25
+    100004: Archinteriors8_05_26
+    100006: Archinteriors8_05_28
+    100008: Archinteriors8_05_30
+    100010: Archinteriors8_05_60
+    100012: Object001
+    100014: Object002
+    100016: Object003
+    100018: Object004
+    100020: Object005
+    100022: Object006
+    100024: Object007
+    100026: Object008
+    100028: //RootNode
+    100030: "\u5BF9\u8C61"
+    100032: "\u5BF9\u8C61001"
+    100034: "\u5BF9\u8C61002"
+    100036: "\u5BF9\u8C61003"
+    100038: "\u5BF9\u8C61004"
+    100040: "\u5BF9\u8C61005"
+    100042: "\u5BF9\u8C61006"
+    100044: Bone001
+    100046: Bone002
+    100048: Bone003
+    100050: Bone004
+    100052: Bone005
+    100054: Bone006
+    100056: Bone007
+    100058: Wind chime
+    100060: Bone008
+    100062: Bone009
+    100064: Bone010
+    100066: Bone011
+    100068: Bone012
+    100070: Bone013
+    100072: Bone014
+    100074: line
+    100076: line1
+    100078: line1 1
+    100080: line1 2
+    100082: line1 3
+    100084: line1m
+    100086: line1mm
+    100088: line3
+    100090: line4
+    400000: Archinteriors8_05_10
+    400002: Archinteriors8_05_25
+    400004: Archinteriors8_05_26
+    400006: Archinteriors8_05_28
+    400008: Archinteriors8_05_30
+    400010: Archinteriors8_05_60
+    400012: Object001
+    400014: Object002
+    400016: Object003
+    400018: Object004
+    400020: Object005
+    400022: Object006
+    400024: Object007
+    400026: Object008
+    400028: //RootNode
+    400030: "\u5BF9\u8C61"
+    400032: "\u5BF9\u8C61001"
+    400034: "\u5BF9\u8C61002"
+    400036: "\u5BF9\u8C61003"
+    400038: "\u5BF9\u8C61004"
+    400040: "\u5BF9\u8C61005"
+    400042: "\u5BF9\u8C61006"
+    400044: Bone001
+    400046: Bone002
+    400048: Bone003
+    400050: Bone004
+    400052: Bone005
+    400054: Bone006
+    400056: Bone007
+    400058: Wind chime
+    400060: Bone008
+    400062: Bone009
+    400064: Bone010
+    400066: Bone011
+    400068: Bone012
+    400070: Bone013
+    400072: Bone014
+    400074: line
+    400076: line1
+    400078: line1 1
+    400080: line1 2
+    400082: line1 3
+    400084: line1m
+    400086: line1mm
+    400088: line3
+    400090: line4
+    2300000: Archinteriors8_05_10
+    2300002: Archinteriors8_05_25
+    2300004: Archinteriors8_05_26
+    2300006: Archinteriors8_05_28
+    2300008: Archinteriors8_05_30
+    2300010: Archinteriors8_05_60
+    2300012: Object001
+    2300014: Object002
+    2300016: Object003
+    2300018: Object004
+    2300020: Object005
+    2300022: Object006
+    2300024: Object007
+    2300026: Object008
+    2300028: "\u5BF9\u8C61"
+    2300030: "\u5BF9\u8C61001"
+    2300032: "\u5BF9\u8C61002"
+    2300034: "\u5BF9\u8C61003"
+    2300036: "\u5BF9\u8C61004"
+    2300038: "\u5BF9\u8C61005"
+    2300040: "\u5BF9\u8C61006"
+    2300042: line
+    2300044: line1
+    2300046: line1 1
+    2300048: line1 2
+    2300050: line1 3
+    2300052: line1m
+    2300054: line1mm
+    2300056: line3
+    2300058: line4
+    3300000: Archinteriors8_05_10
+    3300002: Archinteriors8_05_25
+    3300004: Archinteriors8_05_26
+    3300006: Archinteriors8_05_28
+    3300008: Archinteriors8_05_30
+    3300010: Archinteriors8_05_60
+    3300012: Object001
+    3300014: Object002
+    3300016: Object003
+    3300018: Object004
+    3300020: Object005
+    3300022: Object006
+    3300024: Object007
+    3300026: Object008
+    3300028: "\u5BF9\u8C61"
+    3300030: "\u5BF9\u8C61001"
+    3300032: "\u5BF9\u8C61002"
+    3300034: "\u5BF9\u8C61003"
+    3300036: "\u5BF9\u8C61004"
+    3300038: "\u5BF9\u8C61005"
+    3300040: "\u5BF9\u8C61006"
+    3300042: line
+    3300044: line1
+    3300046: line1 1
+    3300048: line1 2
+    3300050: line1 3
+    3300052: line1m
+    3300054: line1mm
+    3300056: line3
+    3300058: line4
+    4300000: Archinteriors8_05_60
+    4300002: Archinteriors8_05_10
+    4300004: "\u5BF9\u8C61"
+    4300006: Archinteriors8_05_30
+    4300008: "\u5BF9\u8C61004"
+    4300010: "\u5BF9\u8C61002"
+    4300012: "\u5BF9\u8C61001"
+    4300014: "\u5BF9\u8C61003"
+    4300016: "\u5BF9\u8C61005"
+    4300018: Object008
+    4300020: Object004
+    4300022: Object003
+    4300024: Object006
+    4300026: Object002
+    4300028: Object001
+    4300030: Object007
+    4300032: Object005
+    4300034: Archinteriors8_05_28
+    4300036: "\u5BF9\u8C61006"
+    4300038: Archinteriors8_05_25
+    4300040: Archinteriors8_05_26
+    4300042: line
+    4300044: line3
+    4300046: line1
+    4300048: line1
+    4300050: line4
+    4300052: line1m
+    4300054: line1mm
+    4300056: line1
+    4300058: line1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 42a2b7759170d1c4cbf2882eac6b1a12
+timeCreated: 1470905409
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: door
+    100002: door_frame
+    100004: door_lock
+    100006: floor
+    100008: //RootNode
+    100010: roof
+    100012: wall
+    100014: window_b
+    100016: window_d
+    100018: window_glass
+    100020: window_glass 1
+    100022: window_glass 2
+    100024: window_l
+    100026: window_m
+    100028: window_r
+    100030: door001
+    100032: door_frame001
+    400000: door
+    400002: door_frame
+    400004: door_lock
+    400006: floor
+    400008: //RootNode
+    400010: roof
+    400012: wall
+    400014: window_b
+    400016: window_d
+    400018: window_glass
+    400020: window_glass 1
+    400022: window_glass 2
+    400024: window_l
+    400026: window_m
+    400028: window_r
+    400030: door001
+    400032: door_frame001
+    2300000: door
+    2300002: door_frame
+    2300004: door_lock
+    2300006: floor
+    2300008: roof
+    2300010: wall
+    2300012: window_b
+    2300014: window_d
+    2300016: window_glass
+    2300018: window_glass 1
+    2300020: window_glass 2
+    2300022: window_l
+    2300024: window_m
+    2300026: window_r
+    2300028: door001
+    2300030: door_frame001
+    3300000: door
+    3300002: door_frame
+    3300004: door_lock
+    3300006: floor
+    3300008: roof
+    3300010: wall
+    3300012: window_b
+    3300014: window_d
+    3300016: window_glass
+    3300018: window_glass 1
+    3300020: window_glass 2
+    3300022: window_l
+    3300024: window_m
+    3300026: window_r
+    3300028: door001
+    3300030: door_frame001
+    4300000: window_b
+    4300002: window_l
+    4300004: window_m
+    4300006: window_r
+    4300008: window_d
+    4300010: door
+    4300012: door_lock
+    4300014: roof
+    4300016: door_frame
+    4300018: floor
+    4300020: wall
+    4300022: window_glass
+    4300024: window_glass
+    4300026: window_glass
+    4300028: door_frame001
+    4300030: door001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 1
+    secondaryUVAreaDistortion: 18
+    secondaryUVHardAngle: 180
+    secondaryUVPackMargin: 1
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

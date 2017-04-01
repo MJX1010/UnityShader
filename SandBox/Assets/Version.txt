@@ -1,0 +1,2 @@
+FingoSDK_Unity_Beta 1.00    01/18/17
+Suitable for FingoSevice 1.0.4.1
